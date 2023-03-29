@@ -1,6 +1,5 @@
-#Hi, I'm Mostafa Kamal
-##I am Web Developer
-![I am Web Developer](https://www.facebook.com/mostafakamalbg)
+# Hi, I'm Mostafa Kamal
+![](https://twitter.com/mostafakamalbg)
 
 Hello,
 I am Professional Web Developer.
@@ -12,7 +11,6 @@ Web Development,
 
 Skills: VUE JS / REACT / JS / HTML / CSS/JAVASCRIPT/PHP
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning mern stack development 
 
 
@@ -20,4 +18,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS/JAVASCRIPT/PHP
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/mostafakamalbg)  
