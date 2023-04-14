@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/mostafa-kamal-58696315a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-kamal-58696315a/" height="30" width="40" /></a>
 <a href="https://fb.com/mostafakamalbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafakamalbg" height="30" width="40" /></a>
 <a href="https://instagram.com/mostafakamalbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafakamalbg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mostafakamalbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mostafakamalbg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mostafakamalbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mostafakamalbg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
